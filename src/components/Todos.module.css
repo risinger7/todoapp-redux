@@ -1,0 +1,14 @@
+.container {
+  width: 400px;
+  min-height: 500px;
+  margin: auto 0;
+}
+
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  min-width: 400px;
+  height: 50px;
+}
